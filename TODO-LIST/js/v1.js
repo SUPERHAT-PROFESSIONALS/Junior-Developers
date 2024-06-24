@@ -1,4 +1,4 @@
-const todoList = ['1. SAMPLES TODOS ORIGINATING FROM THE ARRAY IN THE CODE FILE :','2. PLAY','3. EAT','4. SLEEP','5. ADD YOURS'];
+const todoList = ['1. SAMPLE TODOS ORIGINATING FROM THE ARRAY IN THE CODE FILE :','2. PLAY','3. EAT','4. SLEEP','5. ADD YOURS'];
 
 function renderTodoList() {
     let todoListHTML = '';
