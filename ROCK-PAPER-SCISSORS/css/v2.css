@@ -1,0 +1,13 @@
+img{
+    height: 100px;  
+    width: 100px;
+ 
+    
+}
+
+button{
+    border-radius: 50px;
+    border-color: brown;
+    background-color: black;
+    color: white;
+}
